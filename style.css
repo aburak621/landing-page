@@ -81,10 +81,11 @@
 
 .boxes {
   display: flex;
+  justify-content: space-between;
   gap: 48px;
   padding: 0px 15%;
   text-align: center;
-  height: 370px;
+  height: 400px;
 }
 
 .box {
